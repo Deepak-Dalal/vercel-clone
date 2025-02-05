@@ -1,6 +1,6 @@
 # Vercel Clone
 
-Whiteboard Diagram: https://app.eraser.io/workspace/0f8XnDF61iGcatypPqIR?origin=share
+Whiteboard Diagram: [https://app.eraser.io/workspace/0f8XnDF61iGcatypPqIR?origin=share](https://app.eraser.io/workspace/xMG5Dn4SP6FCDIHh0vyR)
 
 ### Setup Guide
 
@@ -31,4 +31,5 @@ At this point following services would be up and running:
 
 ### Architecture
 
-![Vercel Clone Architecture](https://i.imgur.com/r7QUXqZ.png)
+![image](https://github.com/user-attachments/assets/e4dbcee4-02b6-4a2b-936c-e08ef26f5dd6)
+
